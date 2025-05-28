@@ -14,3 +14,10 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+
+//comment 1
+//comment 2
+//comment 3
+//comment 4
+//comment 5
+//comment 6
